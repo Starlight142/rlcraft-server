@@ -1,0 +1,5 @@
+ShrineSmallAir,-234,-226,158,166
+RLCraft_DecentCaveSpider,-166,-166,24,24
+RLCraft_UndergroundRuin3,-172,-164,21,29
+BigClockworkSite,-83,-38,-27,8
+DinosaurSkeleton,3,12,106,152
